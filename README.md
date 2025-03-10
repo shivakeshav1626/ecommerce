@@ -104,3 +104,6 @@ This is a mentor-guided project to build a full-fledged **E-commerce application
 4. **UI Enhancements**:  
    I ensured that the cards had consistent spacing, aligned content, and were visually appealing. The homepage now displays a neat grid of products, making it easy for users to browse through them.
 
+#Milestone 
+ I Created an endpoint to receive request from cart page.
+ I Created an backend endpoint to fetch all the products inside cart with user mail.
